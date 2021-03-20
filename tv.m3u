@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="USA",Cartoon Network()
+#EXTINF:-1 group-title="USA",Cartoon Network
 http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="Bangladesh", ABP Ananda [IN]
