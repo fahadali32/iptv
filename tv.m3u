@@ -6,9 +6,6 @@ http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="Bangladesh", ABP Ananda [IN]
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="India", Alif IPTV [IN]
-http://pn.tvott.info:80/477845056156344/477845056156344/83606
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="Bangladesh", Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8?@amarnettv.live
@@ -759,7 +756,7 @@ http://pn.tvott.info:80/477845056156344/477845056156344/83609
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |HINDI| TIMES NOW HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83607
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |HINDI| NICK PLUS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Without category", |HINDI| NICK PLUS HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83606
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |HINDI| MNX HD
@@ -1290,7 +1287,7 @@ http://rv.therevenge.co:80/9372941246/5108585674/83609
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |HINDI| TIMES NOW HD
 http://rv.therevenge.co:80/9372941246/5108585674/83607
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |HINDI| NICK PLUS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Without category", |HINDI| NICK PLUS HD
 http://rv.therevenge.co:80/9372941246/5108585674/83606
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |HINDI| MNX HD
