@@ -7,7 +7,8 @@ http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="India", Alif IPTV [IN]
-https://edge4.bioscopelive.com/hls/anonymous/Q9Wz67R3LI0sQyFkulE8XQ/1616182537/nick_low/index.m3u8
+http://pn.tvott.info:80/477845056156344/477845056156344/83606
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="Bangladesh", Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8?@amarnettv.live
