@@ -44,7 +44,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Kolkata", Star Jalsha HD [IN] (2)
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+http://209.126.120.153/hls/chsj.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Kolkata", Zee Bangla Cinema [IN]
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
