@@ -868,8 +868,8 @@ http://pn.tvott.info:80/477845056156344/477845056156344/83547
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |HINDI| SATSANG TV
 http://pn.tvott.info:80/477845056156344/477845056156344/83546
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |HINDI| DISCOVERY KIDS
-http://pn.tvott.info:80/477845056156344/477845056156344/83545
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDZ", Discovery Kids
+https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |HINDI| CHANNEL WIN
 http://pn.tvott.info:80/477845056156344/477845056156344/83543
