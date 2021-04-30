@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/800px-ATN_Bangla.svg.png" group-title="Bangladesh",Atn Bangla
-http://edge.thunderbd.com:8081/roarzone/2/chunks.m3u8?nimblesessionid=464026&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDU6Mzc6NDIgQU0maGFzaF92YWx1ZT0xdllIcUpNbWNVZlRRd3pQSm9GbW9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU%3D
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangladesh",Rtv 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
@@ -73,6 +70,9 @@ https://rhridoy136.shortcm.li/satv.m3u8
 https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladesh", ATN Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangladesh", ATN News
 https://rhridoy136.shortcm.li/atnnews.m3u8
 
@@ -106,27 +106,27 @@ https://rhridoy136.shortcm.li/gaanbangla.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladesh", CHANNEL 24
 https://rhridoy136.shortcm.li/channel24.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/s1600/desh-tv-2.jpg" group-title="Bangladesh", Desh Tv
-http://87.117.234.51:8554/pose/deshtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDIxIDEwOjU1OjA5IFBNJmhhc2hfdmFsdWU9SmFyMVV0cjlLdHM4OG5Rd3RJUS9vZz09JnZhbGlkbWludXRlcz0y
+http://103.205.133.21/hls/deshtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh", G tv
 http://edge.thunderbd.com:8081/roarzone/1/chunks.m3u8?nimblesessionid=463625&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDU6MjI6MzMgQU0maGFzaF92YWx1ZT1vU052UGRPbWdxcW9VWW9qZzdTYWVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladesh", Mach Ranga tv
-http://edge.thunderbd.com:8081/roarzone/51/chunks.m3u8?nimblesessionid=463768&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDU6Mjk6MjIgQU0maGFzaF92YWx1ZT1zU2xmNzM2U1hsc2xRUC91TU5TUWNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU%3D
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/512px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladesh", Nagorik tv
-http://edge.thunderbd.com:8081/roarzone/59/chunks.m3u8?nimblesessionid=465960&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDY6NDI6MTMgQU0maGFzaF92YWx1ZT1SRnFEN0QxZU1RdVIwTjk3TGppTWl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU%3D
+http://103.205.133.21/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="India", Star Jalsha
-http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=474572&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjM3OjU0IEFNJmhhc2hfdmFsdWU9NFlmQ1BveFVpRFF3cktjcjBOcENrQT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=500118&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjEwOjE1IFBNJmhhc2hfdmFsdWU9alNiOUxhY1o1cHhwbTcwVTZlVDRWQT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/800px-Sony_Aath_logo.svg.png" group-title="India", Sony Aath
-http://edge.thunderbd.com:8081/roarzone/33/chunks.m3u8?nimblesessionid=474996&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjQ3OjM1IEFNJmhhc2hfdmFsdWU9K0hnWWdKdU0wZmRWek45V0JJRFV0UT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://edge.thunderbd.com:8081/roarzone/33/chunks.m3u8?nimblesessionid=500168&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjE1OjAxIFBNJmhhc2hfdmFsdWU9ejFQZEs4eVBSZUpmWFgwT2k0RU16QT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/09/12/dfddsf.jpg?itok=YuAK3kmH" group-title="India", Akash aath
-http://edge.thunderbd.com:8081/roarzone/32/chunks.m3u8?nimblesessionid=475241&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjUxOjE4IEFNJmhhc2hfdmFsdWU9d3FqNFBldnlwZFo2TGZMUURxeCtQQT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://edge.thunderbd.com:8081/roarzone/32/chunks.m3u8?nimblesessionid=500283&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjQ3OjA5IFBNJmhhc2hfdmFsdWU9SExpK3hYemFNV0JsYUkvY3RsS1Vxdz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="India", Star Plus
 http://edge.thunderbd.com:8081/roarzone/67/chunks.m3u8?nimblesessionid=499528&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDk6Mjc6MzAgUE0maGFzaF92YWx1ZT1PQWxiUkFNSGs1QmxGbEFPbnM0ZldBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU%3D
@@ -135,29 +135,29 @@ http://edge.thunderbd.com:8081/roarzone/67/chunks.m3u8?nimblesessionid=499528&wm
 http://edge.thunderbd.com:8081/roarzone/38/chunks.m3u8?nimblesessionid=499566&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDk6MzM6MjIgUE0maGFzaF92YWx1ZT1xVkhhVkxXSzdNYXlwaUdWSGVTV0xnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU%3D
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/detail-images/star-gold-large.jpg" group-title="India", Star Gold
-http://edge.thunderbd.com:8081/roarzone/75/chunks.m3u8?nimblesessionid=477162&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDExOjIzOjQxIEFNJmhhc2hfdmFsdWU9MFJ5WS9FMTBwUGdqOUlSZnJJbFZEQT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://edge.thunderbd.com:8081/roarzone/75/chunks.m3u8?nimblesessionid=500209&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjIwOjQ2IFBNJmhhc2hfdmFsdWU9bUtUVjhyYUdaTXFpVVpuNXF6dXc1Zz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="India", & Pictures
-http://edge.thunderbd.com:8081/roarzone/74/chunks.m3u8?nimblesessionid=477498&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDExOjI4OjQ1IEFNJmhhc2hfdmFsdWU9RkwyeU5TUWk5N3FERWZmTC9xeERkUT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://edge.thunderbd.com:8081/roarzone/74/chunks.m3u8?nimblesessionid=500272&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjQzOjAzIFBNJmhhc2hfdmFsdWU9czg2UjZjQUpZRFdSWkJvRTVFa3J4UT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="India",Colors Tv
-http://edge.thunderbd.com:8081/roarzone/68/chunks.m3u8?nimblesessionid=477651&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDExOjMzOjU2IEFNJmhhc2hfdmFsdWU9eU5ZRGhrdzdaWmRBQ1BtMzB4ejl3UT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://edge.thunderbd.com:8081/roarzone/68/chunks.m3u8?nimblesessionid=500174&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjE3OjQ2IFBNJmhhc2hfdmFsdWU9VU1KVFJ5MzZvWDJDeVloeHk4c20xQT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/TV-Logo.png" group-title="India",&Tv
 http://edge.thunderbd.com:8081/roarzone/74/chunks.m3u8?nimblesessionid=477818&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDExOjM5OjIwIEFNJmhhc2hfdmFsdWU9U01pRlZhdWQrc3hmdFlKM1dzeVFGZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201904/zee-cinema-new.jpg" group-title="India",Zee Cinema
-http://edge.thunderbd.com:8081/roarzone/76/chunks.m3u8?nimblesessionid=477981&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDExOjQzOjA3IEFNJmhhc2hfdmFsdWU9SnFmQ0NkdlBEQnNiSHZDeGs2S1E4Zz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://edge.thunderbd.com:8081/roarzone/76/chunks.m3u8?nimblesessionid=500217&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjIzOjI1IFBNJmhhc2hfdmFsdWU9MG4zVmVGTzRyRDdVcGJCYmlBbmJEQT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="India", Zee tv
-http://edge.thunderbd.com:8081/roarzone/40/chunks.m3u8?nimblesessionid=478140&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDExOjQ3OjAxIEFNJmhhc2hfdmFsdWU9R0dEeUNkSEVPTXRmaEY0V0pneUhrUT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://edge.thunderbd.com:8081/roarzone/40/chunks.m3u8?nimblesessionid=500230&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjI4OjI4IFBNJmhhc2hfdmFsdWU9dE0vNy9XNGwvNENnOUZKbnpzUWY2dz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="India",Sony Sab
 http://edge.thunderbd.com:8081/roarzone/36/chunks.m3u8?nimblesessionid=499531&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDk6Mjg6MDEgUE0maGFzaF92YWx1ZT01aElSNUF1bWkwZSt5Z2wza1A0TmhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/800px-Sony_MAX.svg.png" group-title="India",Sony Max
-http://edge.thunderbd.com:8081/roarzone/77/chunks.m3u8?nimblesessionid=478573&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDExOjU2OjM5IEFNJmhhc2hfdmFsdWU9cmErOFg3TzBadnNhSGJqZU1vYjRVUT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://edge.thunderbd.com:8081/roarzone/77/chunks.m3u8?nimblesessionid=500222&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjI1OjQzIFBNJmhhc2hfdmFsdWU9TU9QbmN6cE91OFQzaUs3WmJ0TTJ0Zz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoon",Cartoon Network
 http://dpasdl08.tth.cl:8745/eros/cartoonnetworkhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEyOjA1OjUyIFBNJmhhc2hfdmFsdWU9cnJ6UkxEdTRjR3hnbWJuSUZzMXhiUT09JnZhbGlkbWludXRlcz0y
