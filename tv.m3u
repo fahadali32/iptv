@@ -1,6 +1,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangladesh",Rtv 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",71 tv
 http://103.205.133.21/hls/ekatoortv.m3u8
 
@@ -16,6 +17,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="Bangladesh", Channel 23 IPTV
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="India",Bflix Movies
+https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangladesh", EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -114,7 +117,7 @@ https://rhridoy136.shortcm.li/channel24.m3u8
 http://103.205.133.21/hls/deshtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh", G tv
-http://edge.thunderbd.com:8081/roarzone/1/chunks.m3u8?nimblesessionid=463625&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDU6MjI6MzMgQU0maGFzaF92YWx1ZT1vU052UGRPbWdxcW9VWW9qZzdTYWVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladesh", Mach Ranga tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
@@ -148,7 +151,7 @@ http://103.205.133.19/hls/andtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201904/zee-cinema-new.jpg" group-title="India",Zee Cinema
-http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8?token=soheliptv01826655778
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="India", Zee tv
 http://edge.thunderbd.com:8081/roarzone/40/chunks.m3u8?nimblesessionid=500230&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjI4OjI4IFBNJmhhc2hfdmFsdWU9dE0vNy9XNGwvNENnOUZKbnpzUWY2dz09JnZhbGlkbWludXRlcz02MCZpZD01
