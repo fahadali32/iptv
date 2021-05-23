@@ -141,17 +141,17 @@ http://103.205.133.21/hls/chsp.m3u8
 http://103.205.133.21/hls/chs.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/detail-images/star-gold-large.jpg" group-title="India", Star Gold
-http://edge.thunderbd.com:8081/roarzone/75/chunks.m3u8?nimblesessionid=500209&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjIwOjQ2IFBNJmhhc2hfdmFsdWU9bUtUVjhyYUdaTXFpVVpuNXF6dXc1Zz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://103.153.175.254:8080/hls/stream19.m3u8?bdtv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="India", & Pictures
-http://103.205.133.19/hls/andpicture.m3u8
+http://103.153.175.254:8080/hls/stream14.m3u8?BDTV
 
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/TV-Logo.png" group-title="India",&Tv
 http://103.205.133.19/hls/andtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201904/zee-cinema-new.jpg" group-title="India",Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
+http://103.153.175.254:8080/hls/stream25.m3u8?bdtv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="India", Zee tv
 http://edge.thunderbd.com:8081/roarzone/40/chunks.m3u8?nimblesessionid=500230&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjI4OjI4IFBNJmhhc2hfdmFsdWU9dE0vNy9XNGwvNENnOUZKbnpzUWY2dz09JnZhbGlkbWludXRlcz02MCZpZD01
@@ -169,7 +169,7 @@ http://livezer0.hjkm.info:11991/juno/cartoonnetworkhindi/playlist.m3u8?wmsAuthSi
 http://erfpofv.ivi.pl:61190/corpus/disneychhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEyOjE3OjU5IFBNJmhhc2hfdmFsdWU9RFQvTm12cUh6akk0N3o0cHlnMzdHdz09JnZhbGlkbWludXRlcz0y
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="India",9 xm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9 xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="India",Discovery Science Hindi
@@ -178,8 +178,8 @@ https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="India",Big Magic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="India",Discovery Hindi
-https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Bangladesh",Discovery Bangla HD
+http://103.153.175.254:8080/hls/stream9.m3u8?bdtv
 
 #EXTINF:0 tvg-logo="https://www.adgully.com/img/800/202006/colors-rishtey_2.png.jpg" group-title="India",Colors tv
 http://103.205.133.21/hls/chc.m3u8
@@ -194,7 +194,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv0
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Cartoon",Nick
-http://103.81.104.118/hls/stream23.m3u8
+http://103.153.175.254:8080/hls/stream23.m3u8?bdtv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="India",TLC Hindi
 https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
@@ -203,25 +203,40 @@ https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Cartoon",Sony Yay
-http://103.81.104.118/hls/stream32.m3u8
+http://103.153.175.254:8080/hls/stream32.m3u8?bdtv
 
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="India" ,Sony Max HD
 http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sonypixhd.jpg" group-title="English" ,Sony Pix HD
-http://103.81.104.118/hls/stream1.m3u8
+http://103.153.175.254:8080/hls/stream1.m3u8?bdtv
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="English" ,Axn HD
-http://103.81.104.118/hls/stream2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="English" ,Axn HD
+http://103.153.175.254:8080/hls/stream2.m3u8?bdtv
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/utvaction.jpg" group-title="India" ,Utv Action
-http://103.81.104.118/hls/stream7.m3u8
+http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="English" ,Star Movies HD
-http://103.81.104.118/hls/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1280px-STAR_Movies_logo.svg.png" group-title="English" ,Star Movies HD
+http://103.153.175.254:8080/hls/stream3.m3u8?bdtv
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/zoom.jpg" group-title="India" ,Zoom
-http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/zoomtv-logo.png" group-title="India" ,Zoom
+http://103.153.175.254:8080/hls/stream8.m3u8?bdtv
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/Star_Sports_Select_1_HD.jpg" group-title="Sports" ,Star Sports Select HD 1
 http://103.81.104.118/hls/stream12.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHbJdMX60zD9iKv69c8TJpU103h4g1BMKzAQ&usqp=CAU" group-title="India",Zee Zest
+https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Cartoon",Discovery Kids
+https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music",128.MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="India",Jalsha Movies
+http://103.153.175.254:8080/hls/stream27.m3u8?bdtv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/6/6c/%E0%A6%86%E0%A6%B2_%E0%A6%9C%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/768px-%E0%A6%86%E0%A6%B2_%E0%A6%9C%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="English",Algazira 
+http://103.153.175.254:8080/hls/stream35.m3u8?bdtv
