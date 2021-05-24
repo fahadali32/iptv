@@ -240,3 +240,6 @@ http://103.153.175.254:8080/hls/stream27.m3u8?bdtv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/6/6c/%E0%A6%86%E0%A6%B2_%E0%A6%9C%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/768px-%E0%A6%86%E0%A6%B2_%E0%A6%9C%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="English",Algazira 
 http://103.153.175.254:8080/hls/stream35.m3u8?bdtv
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="India", STAR BHARAT HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463002
