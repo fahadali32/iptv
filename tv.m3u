@@ -1,6 +1,8 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangladesh",Rtv 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladesh",Btv
+http://103.205.133.19/hls/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",71 tv
 http://103.205.133.21/hls/ekatoortv.m3u8
@@ -154,7 +156,7 @@ http://103.205.133.19/hls/andtv.m3u8
 http://103.153.175.254:8080/hls/stream25.m3u8?bdtv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="India", Zee tv
-http://edge.thunderbd.com:8081/roarzone/40/chunks.m3u8?nimblesessionid=500230&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEwOjI4OjI4IFBNJmhhc2hfdmFsdWU9dE0vNy9XNGwvNENnOUZKbnpzUWY2dz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://iptvtree.net:8080/geniptv/4faed690fd/166575
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="India",Sony Sab
 http://208.115.215.42:80/SonY_Sab_HD/tracks-v1a1/mono.m3u8
@@ -166,8 +168,7 @@ http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
 http://livezer0.hjkm.info:11991/juno/cartoonnetworkhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjEgOTo1NTo0NCBBTSZoYXNoX3ZhbHVlPVk1UktpbDR3YnFmb1dTMk1jK0JvdFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png" group-title="Cartoon",Disney
-http://erfpofv.ivi.pl:61190/corpus/disneychhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDEyOjE3OjU5IFBNJmhhc2hfdmFsdWU9RFQvTm12cUh6akk0N3o0cHlnMzdHdz09JnZhbGlkbWludXRlcz0y
-
+http://iptvtree.net:8080/geniptv/4faed690fd/64409
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9 xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -242,4 +243,4 @@ http://103.153.175.254:8080/hls/stream27.m3u8?bdtv
 http://103.153.175.254:8080/hls/stream35.m3u8?bdtv
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="India", STAR BHARAT HD
-https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463002
+http://iptvtree.net:8080/geniptv/4faed690fd/70816
